@@ -1,13 +1,13 @@
 module.exports = {
-  pathPrefix: `/my-digital-garden`,
+  pathPrefix: `/foam-gatsby-template`,
   siteMetadata: {
-    title: `Foam`,
+    title: `shen's garden|绅戛德`,
   },
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: "/readme",
+        rootNote: "/index",
         contentPath: `${__dirname}/..`,
         ignore: [
           "**/_layouts/**",
