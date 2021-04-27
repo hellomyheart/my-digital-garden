@@ -67,7 +67,7 @@
 
 - 二进制类型：bit （一般用来存储 0 或 1，Java 中的 boolean/Boolean 类型的值）（可指定**位宽**）
 
-[![MySQL支持的列类型](https://zeroone-bucket.oss-cn-beijing.aliyuncs.com/blog/20210423155950.jpeg)](https://sdky.gitee.io/img/MySQL支持的列类型.jpg)图 1 MySQL支持的列类型
+[![MySQL支持的列类型](https://zeroone-bucket.oss-cn-beijing.aliyuncs.com/blog/20210423155950.jpeg)](https://zeroone-bucket.oss-cn-beijing.aliyuncs.com/blog/20210423155950.jpeg)图 1 MySQL支持的列类型
 
 ## 数据库管理语句
 
